@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 16:50:41 2017
+Este script muestra el codigo HTML de conectar a google
 
 @author: victor
 """

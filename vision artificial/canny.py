@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 20:01:45 2017
+Script que muestra una imagen detectando sus bordes
 
 @author: victor
 """

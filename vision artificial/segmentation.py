@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 19:32:55 2017
+obtiene una imagen a partir de una imagen solo las partes en amarillo.
 
 @author: victor
 """

@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 18:17:44 2017
+Este script obtiene imagenes por la camara y muestra la imagen en espacio de
+ colores HSV
 
 @author: victor
 """

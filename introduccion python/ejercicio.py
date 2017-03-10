@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 17:17:00 2017
+Script que muestra todas las imagenes de una carpeta
 
 @author: victor
 """

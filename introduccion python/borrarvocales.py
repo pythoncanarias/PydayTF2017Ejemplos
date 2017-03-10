@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Borrarvocales. Este script python borra las vocales de una frase.
 
 This is a temporary script file.
 """

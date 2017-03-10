@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 20:15:51 2017
+Script que obtiene imagenes de una carpeta y guarda los momentos de Hu
+en un archivo csv
 
 @author: victor
 """

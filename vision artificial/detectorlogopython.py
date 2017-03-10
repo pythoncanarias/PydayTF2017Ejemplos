@@ -14,7 +14,8 @@ import csv
 
 
 
-#script que a partir de una carpeta obtiene todas las imagenes y crea un csv con sus momentos de Hu
+#script que a partir de una carpeta obtiene todas las imagenes y detecta si 
+# una imagen es el logo de python o no.
 
 if len(sys.argv)<1:
     print("Uso humoments path")

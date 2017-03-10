@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 17:03:31 2017
+funcion que muestra los primeros N pares donde N es un parametro
 
 @author: victor
 """

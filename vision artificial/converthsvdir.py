@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 10 20:44:01 2017
+Convierte todas las imagenes de un directorio a HSV y los guarda en otro
 
 @author: victor
 """
@@ -22,7 +22,7 @@ def obtenerimagenes(path):
     return matches
 
 if len(sys.argv)<2:
-    print("Uso humoments path")
+    print("Uso humoments path1 path2")
     exit(1)
     
 
